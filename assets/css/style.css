@@ -1,7 +1,13 @@
 body {
     text-align: center;
+    color: white;
+    background-color: blue;
 }
   
+h1 {
+    margin-top: 0;
+}
+
 .quadrado {
     text-align: center;
     width: 50px;
@@ -12,6 +18,7 @@ body {
     margin: 5px;
     cursor: pointer;
     color: #EEE;
+    border-radius: 40%;
 }
   
 .jogador,
@@ -24,6 +31,15 @@ button {
     margin-top: 10px;
     width: 100px;
     height: 20px;
-    background: #EEE;
+    background-color: green;
+    border: 1px solid green;
+    color: white;
     cursor: pointer;
-  }
+    outline: none;
+    border-radius: 10px;
+}
+
+button:hover {
+    transform: scale(1.15);
+    transition: .1s;
+}
