@@ -1,4 +1,4 @@
-<h1 align="center">Jogo da Velha/h1>
+<h1 align="center">Jogo da Velha</h1>
 
   <p align="center">
 <img src="https://github.com/ale-mouraboni/rock-paper-scissors/blob/main/assets/readme/r-p-s.gif">
