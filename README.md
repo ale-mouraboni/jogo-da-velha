@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Esse projeto foi desenvolvido durante o bootcamp <strong>JavaScript Game Developer</strong> na plataforma <a href="https://digitalinnovation.one/">Digital Innovation One</a>.
+Esse projeto foi desenvolvido durante o bootcamp <strong>JavaScript Game Developer</strong> na plataforma <a href="https://digitalinnovation.one/">Digital Innovation One</a>.
 </p>
 
 <p align="center">
