@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido durante o bootcamp <strong>JavaScript Game Develop
   <a href="#technology">Tecnologias</a> | 
   <a href="#c-utilizar">Como Utilizar</a> |
   <a href="#about">About</a> |
-  <a href="#license">Licence</a> 
+  <a href="#license">License</a> 
 </p>
 
 <h2 id="technology">:globe_with_meridians: Tecnologias</h2>
