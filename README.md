@@ -42,7 +42,7 @@ $ git clone https://github.com/ale-mouraboni/jogo-da-velha.git
 ## :heavy_check_mark: About
 <p>Um simples jogo da velha desenvolvido em JavaScript.
 </br>
-Esse projeto foi desenvolvido durante o bootcamp JavaScript Game Developer na plataforma Digital Innovation One.
+Esse projeto foi desenvolvido durante o bootcamp <strong>JavaScript Game Developer</strong> na plataforma <strong>Digital Innovation One</strong>.
 </p>
 
 ### Responsive?
