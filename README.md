@@ -1,7 +1,7 @@
 <h1 align="center">Tic Tac Toe</h1>
 <p align="center">Tic Tac Toe Project made in JavaScript. Project made in the JavaScript Game Developer bootcamp on the <strong>Digital Innovation One</strong> platform.
 </br>
-<a href="https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM">Access Playlist</a>
+<a href="https://www.digitalinnovation.one">Access Platform</a>
 </p>
 
 <p align="center">
